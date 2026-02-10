@@ -453,6 +453,7 @@ $categoria = $_GET['categoria'] ?? 'todos';
             </div>
         </div>
     </div>
-
+<a href="wordpress/inicio/">
+<button type="button">Atras</button></a>
 </body>
 </html>
