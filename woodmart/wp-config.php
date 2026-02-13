@@ -26,7 +26,7 @@ define( 'DB_NAME', 'woodmartdb' );
 define( 'DB_USER', 'admin' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'aa23bc747d86edd99fe548a6d5644d785178a80b981ece64' );
+define( 'DB_PASSWORD', 'f12041d977ca805c44fb753d8cbd2e03f80b8ef8186b205e' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
